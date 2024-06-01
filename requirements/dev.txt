@@ -118,7 +118,7 @@ pygments==2.17.2
     #   sphinx-tabs
 pyproject-api==1.6.1
     # via tox
-pyright==1.1.364
+pyright==1.1.365
     # via -r typing.txt
 pytest==8.2.1
     # via
